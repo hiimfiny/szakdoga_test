@@ -1,6 +1,6 @@
 # szakdoga_test
 
-Jelenleg a futtatáshoz két terminál szükséges.  
+Jelenleg a futtatáshoz két terminál, valamint telepített nodejs szükséges.  
 Az elsőben a peerjs segítségével létesítünk kapcsolatot 2 felhasználó között.  
 Első futtatáskor ezt telepíteni kell a  
   npm i -g peer  
